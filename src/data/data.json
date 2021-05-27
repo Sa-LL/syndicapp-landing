@@ -1,136 +1,121 @@
 {
-    "Header": {
-
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-
-    },
-    "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
-        ],
-        "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
-        ]
-    },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        }
-
-
-    ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
-    "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
-    },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        }
-    ]
+	"Header": {
+		"title": "Syndicapp",
+		"paragraph": "Syndicapp es un aplicativo web y móvil para agilizar tus procesos sindicales desde la palma de tu mano de manera fácil y gratuita."
+	},
+	"About": {
+		"paragraph": "Nuestra pasión al ámbito social nos ha acercado al mundo sindical, y mientras exploramos el entorno y cultura de estas instituciones hemos presenciado dificultades en las labores diarias de los sindicatos, cuya solución podría mejorar considerablemente la calidad de los sindicatos en el mundo; uno de estos problemas es la democratización de los procesos y servicios de los sindicatos, los cuales pueden ser optimizados mediante el uso de las Tecnologías de la Información y la Comunicación.",
+		"paragraph2": "Con dicha motivación y tieniendo nociones en el arte de la programación, decidimos desarrollar Syndicapp desde el mes de Febrero y hemos avanzado firmemente, abriendo la puerta a nuevos horizontes."
+	},
+	"Services": [
+		{
+			"icon": "fa fa-archive",
+			"name": "Votaciones digitales personalizadas internas",
+			"text": "Genera votaciones internas para tu sindicato, eligiendo hasta qué miembros pueden votar."
+		},
+		{
+			"icon": "fa fa-cogs",
+			"name": "Gestión de eventos",
+			"text": "Gestiona eventos físicos y digitales de tu sindicato invitando personas en específico y notificandolas en la aplicación."
+		},
+		{
+			"icon": "fa fa-building",
+			"name": "Reservaciones de sitios físicos",
+			"text": "Reserva cupos para espacios abiertos como salas de reuniones, gimnasios, salones comunes y demás espacios que tu sindicato ofrece para ti con facilidad."
+		},
+		{
+			"icon": "fa fa-briefcase",
+			"name": "Peticiones a altos cargos",
+			"text": "Contacta con los altos cargos de tu sindicato en casos especiales como conflictos internos o situaciones anormales."
+		},
+		{
+			"icon": "fa fa-taxi",
+			"name": "Reservaciones de servicios externos",
+			"text": "Reserva espacios con médicos, psicólogos, abogados y demás profesionales ofrecidos por tu sindicato."
+		},
+		{
+			"icon": "fa fa-check",
+			"name": "Soporte de licencia a medianos y grandes sindicatos",
+			"text": "Personaliza tus servicios, agrega funciones y obten soporte especial mediante la adquisición de licencia de Syndicapp."
+		}
+	],
+	"Testimonials": [
+		{
+			"img": "img/testimonials/01.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/02.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/03.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/04.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		},
+		{
+			"img": "img/testimonials/05.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "John Doe"
+		},
+		{
+			"img": "img/testimonials/06.jpg",
+			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+			"name": "Johnathan Doe"
+		}
+	],
+	"Team": [
+		{
+			"img": "img/team/01.jpg",
+			"name": "Sebastián Franco",
+			"job": "Programador líder"
+		},
+		{
+			"img": "img/team/02.jpg",
+			"name": "Santiago Londoño",
+			"job": "Diseñador"
+		},
+		{
+			"img": "img/team/03.jpg",
+			"name": "Pierkey Herrera",
+			"job": "Jefe de marketing"
+		}
+	],
+	"Contact": {
+		"address": "Direccion 660001 Pereira, Colombia",
+		"phone": "+57 314 7574489",
+		"email": "syndicappsoporte@gmail.com",
+		"facebook": "fb.com",
+		"twitter": "twitter.com",
+		"youtube": "youtube.com"
+	},
+	"Features": [
+		{
+			"icon": "fa fa-laptop",
+			"title": "Servicios en la palma de tu mano",
+			"text": "Solicita los servicios de tus sindicatos de manera instantánea en Syndicapp."
+		},
+		{
+			"icon": "fa fa-cc",
+			"title": "Facilidad de acceso",
+			"text": "Ingresa a Syndicapp desde un navegador web o descargando la aplicación directamente desde la Playstore."
+		},
+		{
+			"icon": "fa fa-group",
+			"title": "Inscripción abierta",
+			"text": "Inscribe tu sindicato a nuestra plataforma de manera ágil e intuitiva."
+		},
+		{
+			"icon": "fa fa-money",
+			"title": "Servicio gratuito",
+			"text": "Syndicapp es una plataforma de uso gratuito, tu sindicato y tú disfrutarán de una transformación digital de manera inmediata."
+		}
+	]
 }
